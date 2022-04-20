@@ -54,6 +54,9 @@ def getEdges(G, layout = 0):
     return edges
 
 
+
+
+
 """
 G = createGridGraph(3,3)
 GW = addRandomWeigrhs(G)
